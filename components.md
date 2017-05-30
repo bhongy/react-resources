@@ -25,3 +25,14 @@ Implementation: ? (quality of tests)
 
 - [site](https://bvaughn.github.io/react-virtualized)
 - [github](https://github.com/bvaughn/react-virtualized)
+
+
+
+# TBD
+
+## google-map-react
+
+[Recommend by Sean Matherson](https://twitter.com/controlplusb/status/863873483142574084)
+"Shoutout to @icelabaratory for google-map-react. I almost tore what's left of my hair out with the alternatives."
+
+- [github](https://github.com/istarkov/google-map-react)
