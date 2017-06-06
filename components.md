@@ -5,7 +5,7 @@ Dropdown component.
 Declarative API: focus, search, disable, clear, async.
 Support multi-select and display chips.
 
-Feature: ⭐⭐⭐⭐⭐
+Feature: ⭐⭐⭐⭐⭐<br />
 Implementation: ? (quality of tests)
 
 <br />
@@ -19,12 +19,22 @@ Support multiple types of components — list, grid, table, masonry.
 Support window scroller.
 Support dynamic row height, scroll placeholder, JIT data fetching.
 
-Feature: ⭐⭐⭐⭐⭐
+Feature: ⭐⭐⭐⭐⭐<br />
 Implementation: ? (quality of tests)
 
 <br />
 
 # TBD
+
+## [victory](http://formidable.com/open-source/victory/)
+[Github](https://github.com/FormidableLabs/victory)
+
+<br />
+
+## react-helmet
+[Github](https://github.com/nfl/react-helmet)
+
+<br />
 
 ## google-map-react
 [Github](https://github.com/istarkov/google-map-react)

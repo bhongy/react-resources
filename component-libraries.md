@@ -32,3 +32,4 @@ Just for inspiration of API, naming.
 - [Elemental UI](http://elemental-ui.com/) by Max Striober. Like Bootstrap. Not many components. Forms and Spinners sections might be worth checking out.
 - [Bootstrap](http://getbootstrap.com/components/) Get inspiration of how they name components and parts of them (classnames).
 - [Foundation](http://foundation.zurb.com/sites/docs/)
+- [Topcoat](http://topcoat.io/topcoat/)
